@@ -28,7 +28,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the **Credi
 ├── CreditCard\_EDA\_Assignment.ipynb      # Jupyter notebook for full EDA
 ├── CreditCard\_EDA\_Assignment.html       # Webpage version of the EDA
 └── docs/
-└── .gitkeep                         # Keeps the folder tracked by Git
+  └── index.html                         # HTML file used to create the webpage
 
 
 
