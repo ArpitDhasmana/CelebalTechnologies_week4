@@ -21,7 +21,8 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the **Credi
 
 ## 📂 Folder Structure
 
-```
+
+
 
 📁 week4/
 ├── CreditCard\_EDA\_Assignment.ipynb      # Jupyter notebook for full EDA
@@ -29,7 +30,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the **Credi
 └── docs/
 └── .gitkeep                         # Keeps the folder tracked by Git
 
-```
+
 
 ---
 
