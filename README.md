@@ -33,7 +33,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the **Credi
 
 
 ---
-
+```
 ## 📈 Live Web Version of the Report
 
 You can view the full, formatted EDA report as a webpage here:  
@@ -51,6 +51,7 @@ To run this notebook locally:
 2. Place it in the same folder as the notebook
 3. Run the notebook using Jupyter or VS Code
 
+```
 ---
 
 ## 📌 Technologies Used
